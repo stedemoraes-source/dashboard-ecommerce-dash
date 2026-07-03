@@ -80,7 +80,6 @@ Dashboard interativo desenvolvido para análise exploratória de dados de um e-c
 
 _____________________________________________________________________________________________________________________________________________
 
-# Desenvolvido por
-Stéphanie Moraes Rosa
+Desenvolvido por Stéphanie Moraes Rosa
 
 Data Analytics Portfolio
